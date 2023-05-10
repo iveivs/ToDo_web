@@ -16,6 +16,11 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.orange-text {
+  color: orange;
+  font-weight: 500;
+}
 .aside {
   height: 400px;
 }
@@ -92,14 +97,9 @@ body {
 .float-right {
   float: right;
 }
-.copyright {
-  margin-top: 40px;
-  font-size: 14px;
-  color: gray;
-  text-align: center;
-  margin-bottom: 30px;
-  /* position: absolute; */
-  /* bottom: 30px; */
-  /* left: 0; */
-  /* right: 0; */
+
+
+.card {
+  /* box-shadow: 14px 14px 24px #4f4f4f */
+  box-shadow: 14px 14px 24px #808080
 }
